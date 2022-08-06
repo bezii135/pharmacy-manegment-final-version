@@ -1,1 +1,1 @@
-# pharmacy-manegment-final-version
+# pharmacy-manegment-practice

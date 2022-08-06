@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pharmacy manegment practice", "pharmacy manegment practice.csproj", "{21D0995C-CF36-4127-A960-3953A26558E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdministratorUC", "AdministratorUC", "{1A0EEC76-6E08-4EC3-9A0D-D7080197C6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC_Dashboard1", "..\UC_Dashboard1\UC_Dashboard1.csproj", "{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D0995C-CF36-4127-A960-3953A26558E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D0995C-CF36-4127-A960-3953A26558E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D0995C-CF36-4127-A960-3953A26558E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D0995C-CF36-4127-A960-3953A26558E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF31ED7E-B578-4D5A-ACEA-0B4935E3388A} = {1A0EEC76-6E08-4EC3-9A0D-D7080197C6AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC8E05B-3EB3-42F5-BCD4-DBFFD6D5919A}
+	EndGlobalSection
+EndGlobal
